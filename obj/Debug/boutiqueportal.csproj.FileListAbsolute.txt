@@ -1,0 +1,243 @@
+D:\roll  no 38\boutiqueportal\bin\boutiqueportal.dll.config
+D:\roll  no 38\boutiqueportal\bin\boutiqueportal.dll
+D:\roll  no 38\boutiqueportal\bin\boutiqueportal.pdb
+D:\roll  no 38\boutiqueportal\bin\roslyn\csc.exe
+D:\roll  no 38\boutiqueportal\bin\roslyn\csc.exe.config
+D:\roll  no 38\boutiqueportal\bin\roslyn\csc.rsp
+D:\roll  no 38\boutiqueportal\bin\roslyn\csi.exe
+D:\roll  no 38\boutiqueportal\bin\roslyn\csi.exe.config
+D:\roll  no 38\boutiqueportal\bin\roslyn\csi.rsp
+D:\roll  no 38\boutiqueportal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\roll  no 38\boutiqueportal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\Microsoft.Managed.Core.targets
+D:\roll  no 38\boutiqueportal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\roll  no 38\boutiqueportal\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\System.AppContext.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\System.Collections.Immutable.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\System.Console.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\System.Globalization.Calendars.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\System.IO.Compression.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\System.IO.FileSystem.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\System.Net.Http.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\System.Net.Sockets.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\System.Reflection.Metadata.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\System.ValueTuple.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\System.Xml.XmlDocument.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\System.Xml.XPath.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\roll  no 38\boutiqueportal\bin\roslyn\vbc.exe
+D:\roll  no 38\boutiqueportal\bin\roslyn\vbc.exe.config
+D:\roll  no 38\boutiqueportal\bin\roslyn\vbc.rsp
+D:\roll  no 38\boutiqueportal\bin\roslyn\VBCSCompiler.exe
+D:\roll  no 38\boutiqueportal\bin\roslyn\VBCSCompiler.exe.config
+D:\roll  no 38\boutiqueportal\bin\Antlr3.Runtime.dll
+D:\roll  no 38\boutiqueportal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\roll  no 38\boutiqueportal\bin\Microsoft.Web.Infrastructure.dll
+D:\roll  no 38\boutiqueportal\bin\Newtonsoft.Json.dll
+D:\roll  no 38\boutiqueportal\bin\System.Web.Helpers.dll
+D:\roll  no 38\boutiqueportal\bin\System.Web.Mvc.dll
+D:\roll  no 38\boutiqueportal\bin\System.Web.Optimization.dll
+D:\roll  no 38\boutiqueportal\bin\System.Web.Razor.dll
+D:\roll  no 38\boutiqueportal\bin\System.Web.WebPages.Deployment.dll
+D:\roll  no 38\boutiqueportal\bin\System.Web.WebPages.dll
+D:\roll  no 38\boutiqueportal\bin\System.Web.WebPages.Razor.dll
+D:\roll  no 38\boutiqueportal\bin\WebGrease.dll
+D:\roll  no 38\boutiqueportal\bin\System.Web.Helpers.xml
+D:\roll  no 38\boutiqueportal\bin\System.Web.Mvc.xml
+D:\roll  no 38\boutiqueportal\bin\System.Web.Optimization.xml
+D:\roll  no 38\boutiqueportal\bin\System.Web.Razor.xml
+D:\roll  no 38\boutiqueportal\bin\System.Web.WebPages.xml
+D:\roll  no 38\boutiqueportal\bin\System.Web.WebPages.Deployment.xml
+D:\roll  no 38\boutiqueportal\bin\System.Web.WebPages.Razor.xml
+D:\roll  no 38\boutiqueportal\bin\Newtonsoft.Json.xml
+D:\roll  no 38\boutiqueportal\bin\Antlr3.Runtime.pdb
+D:\roll  no 38\boutiqueportal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\roll  no 38\boutiqueportal\obj\Debug\boutiqueportal.csproj.AssemblyReference.cache
+D:\roll  no 38\boutiqueportal\obj\Debug\boutiqueportal.csproj.CoreCompileInputs.cache
+D:\roll  no 38\boutiqueportal\obj\Debug\boutiqueportal.csproj.CopyComplete
+D:\roll  no 38\boutiqueportal\obj\Debug\boutiqueportal.dll
+D:\roll  no 38\boutiqueportal\obj\Debug\boutiqueportal.pdb
+D:\roll  no 38\boutiqueportal\bin\EntityFramework.dll
+D:\roll  no 38\boutiqueportal\bin\EntityFramework.xml
+D:\boutiqueportal\bin\boutiqueportal.dll.config
+D:\boutiqueportal\bin\boutiqueportal.dll
+D:\boutiqueportal\bin\boutiqueportal.pdb
+D:\boutiqueportal\bin\roslyn\csc.exe
+D:\boutiqueportal\bin\roslyn\csc.exe.config
+D:\boutiqueportal\bin\roslyn\csc.rsp
+D:\boutiqueportal\bin\roslyn\csi.exe
+D:\boutiqueportal\bin\roslyn\csi.exe.config
+D:\boutiqueportal\bin\roslyn\csi.rsp
+D:\boutiqueportal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\boutiqueportal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\boutiqueportal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\boutiqueportal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\boutiqueportal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\boutiqueportal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\boutiqueportal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\boutiqueportal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\boutiqueportal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\boutiqueportal\bin\roslyn\Microsoft.Managed.Core.targets
+D:\boutiqueportal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\boutiqueportal\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\boutiqueportal\bin\roslyn\System.AppContext.dll
+D:\boutiqueportal\bin\roslyn\System.Collections.Immutable.dll
+D:\boutiqueportal\bin\roslyn\System.Console.dll
+D:\boutiqueportal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\boutiqueportal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\boutiqueportal\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\boutiqueportal\bin\roslyn\System.Globalization.Calendars.dll
+D:\boutiqueportal\bin\roslyn\System.IO.Compression.dll
+D:\boutiqueportal\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\boutiqueportal\bin\roslyn\System.IO.FileSystem.dll
+D:\boutiqueportal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\boutiqueportal\bin\roslyn\System.Net.Http.dll
+D:\boutiqueportal\bin\roslyn\System.Net.Sockets.dll
+D:\boutiqueportal\bin\roslyn\System.Reflection.Metadata.dll
+D:\boutiqueportal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\boutiqueportal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\boutiqueportal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\boutiqueportal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\boutiqueportal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\boutiqueportal\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\boutiqueportal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\boutiqueportal\bin\roslyn\System.ValueTuple.dll
+D:\boutiqueportal\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\boutiqueportal\bin\roslyn\System.Xml.XmlDocument.dll
+D:\boutiqueportal\bin\roslyn\System.Xml.XPath.dll
+D:\boutiqueportal\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\boutiqueportal\bin\roslyn\vbc.exe
+D:\boutiqueportal\bin\roslyn\vbc.exe.config
+D:\boutiqueportal\bin\roslyn\vbc.rsp
+D:\boutiqueportal\bin\roslyn\VBCSCompiler.exe
+D:\boutiqueportal\bin\roslyn\VBCSCompiler.exe.config
+D:\boutiqueportal\bin\Antlr3.Runtime.dll
+D:\boutiqueportal\bin\EntityFramework.dll
+D:\boutiqueportal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\boutiqueportal\bin\Microsoft.Web.Infrastructure.dll
+D:\boutiqueportal\bin\Newtonsoft.Json.dll
+D:\boutiqueportal\bin\System.Web.Helpers.dll
+D:\boutiqueportal\bin\System.Web.Mvc.dll
+D:\boutiqueportal\bin\System.Web.Optimization.dll
+D:\boutiqueportal\bin\System.Web.Razor.dll
+D:\boutiqueportal\bin\System.Web.WebPages.Deployment.dll
+D:\boutiqueportal\bin\System.Web.WebPages.dll
+D:\boutiqueportal\bin\System.Web.WebPages.Razor.dll
+D:\boutiqueportal\bin\WebGrease.dll
+D:\boutiqueportal\bin\EntityFramework.xml
+D:\boutiqueportal\bin\System.Web.Helpers.xml
+D:\boutiqueportal\bin\System.Web.Mvc.xml
+D:\boutiqueportal\bin\System.Web.Optimization.xml
+D:\boutiqueportal\bin\System.Web.Razor.xml
+D:\boutiqueportal\bin\System.Web.WebPages.xml
+D:\boutiqueportal\bin\System.Web.WebPages.Deployment.xml
+D:\boutiqueportal\bin\System.Web.WebPages.Razor.xml
+D:\boutiqueportal\bin\Newtonsoft.Json.xml
+D:\boutiqueportal\bin\Antlr3.Runtime.pdb
+D:\boutiqueportal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\boutiqueportal\obj\Debug\boutiqueportal.csproj.AssemblyReference.cache
+D:\boutiqueportal\obj\Debug\boutiqueportal.csproj.CoreCompileInputs.cache
+D:\boutiqueportal\obj\Debug\boutiqueportal.csproj.CopyComplete
+D:\boutiqueportal\obj\Debug\boutiqueportal.dll
+D:\boutiqueportal\obj\Debug\boutiqueportal.pdb
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\boutiqueportal.dll.config
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\boutiqueportal.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\boutiqueportal.pdb
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\csc.exe
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\csc.exe.config
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\csc.rsp
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\csi.exe
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\csi.exe.config
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\csi.rsp
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\System.AppContext.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\System.Console.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\System.IO.Compression.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\System.Net.Http.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\System.Net.Sockets.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\System.ValueTuple.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\vbc.exe
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\vbc.exe.config
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\vbc.rsp
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\VBCSCompiler.exe
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\Antlr3.Runtime.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\EntityFramework.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\Newtonsoft.Json.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\System.Web.Helpers.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\System.Web.Mvc.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\System.Web.Optimization.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\System.Web.Razor.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\System.Web.WebPages.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\System.Web.WebPages.Razor.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\WebGrease.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\EntityFramework.xml
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\System.Web.Helpers.xml
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\System.Web.Mvc.xml
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\System.Web.Optimization.xml
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\System.Web.Razor.xml
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\System.Web.WebPages.xml
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\System.Web.WebPages.Razor.xml
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\Newtonsoft.Json.xml
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\Antlr3.Runtime.pdb
+C:\Users\LENOVO\Downloads\boutiqueportal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LENOVO\Downloads\boutiqueportal\obj\Debug\boutiqueportal.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\boutiqueportal\obj\Debug\boutiqueportal.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\boutiqueportal\obj\Debug\boutiqueportal.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\boutiqueportal\obj\Debug\boutiqueportal.dll
+C:\Users\LENOVO\Downloads\boutiqueportal\obj\Debug\boutiqueportal.pdb
